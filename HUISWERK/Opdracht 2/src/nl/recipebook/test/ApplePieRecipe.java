@@ -15,9 +15,7 @@ public class ApplePieRecipe {
     private Ingredient ingredient9;
     private Ingredient ingredient10;
 
-    //    Ik wilde een betere methode dan slechts alle ingrediënten 1 voor 1 printen, maar geen list gebruiken.
-    //    De reflectieklasse staat on toe om attributen van een klasse te lezen of te schrijven.
-    //        Het bulletpoint symbool kunnen we toewijzen aan een variabele met het Unicode symbool hiervoor
+
 
     public ApplePieRecipe() {
         this.ingredient1 = new Ingredient("ongezouten roomboter", Ingredient.Unit.GR, 200);
@@ -32,6 +30,10 @@ public class ApplePieRecipe {
         this.ingredient10 = new Ingredient("paneermeel", Ingredient.Unit.GR, 15);
 
     }
+
+        //    Ik wilde een betere methode dan slechts alle ingrediënten 1 voor 1 printen, maar geen list gebruiken.
+    //    De reflectieklasse staat on toe om attributen van een klasse te lezen of te schrijven.
+    //        Het bulletpoint symbool kunnen we toewijzen aan een variabele met het Unicode symbool hiervoor
 
     public void printIngredients() {
         for (int i = 1; i <= 10; i++) { // Loop van 1 tot 10
