@@ -14,6 +14,7 @@ public class Ingredient {
 
     }
 
+
     public String getName() {
         return this.name;
     }
@@ -26,7 +27,7 @@ public class Ingredient {
         return this.amount;
     }
 
-    public void setAmount(float name) {
+    public void setAmount(int amount) {
         this.amount = amount;
     }
 
@@ -38,15 +39,27 @@ public class Ingredient {
         this.unit = unit;
     }
 
+    public String toString() {
+        // Ik formatteer de ingrediënten zoals ze moeten worden weergegeven en controleer daarbij eerst of de waarde van `amount` een heel getal is. Een enum voor de 2 formats amounts was waarschijnlijk beter en sneller geweest in dit geval.
+
+/*        - **amount**: Dit is een `float` dat de hoeveelheid van een ingrediënt voorstelt.
+          - **(int) amount**: Dit converteert `amount` naar een `int`, wat betekent dat het eventuele decimalen weglaat en alleen het gehele nummer behoudt.
+          - **amount == (int) amount**: Deze vergelijking controleert of de float `amount` geen decimalen heeft. Dat wil zeggen, `amount` is een geheel getal als de waarde gelijk blijft na omzetten naar `int`.*/
+        String formattedAmount = (amount == (int) amount) ? String.format("%d", (int) amount) : String.format("%.1f", amount);
+
+        return formattedAmount + " " + (unit != null ? unit.getDescription() : "") + " " + name;
+    }
+
+
     // De enum definieert een vaste lijst van mogelijke eenheden.
     // "Enum" is een afkorting van "enumeration", wat letterlijk betekent "opsomming".
     // Een enum lijst vormt een klasse (hierboven toegepast binnen de klasse Ingredient) waarmee we een lijst van afkortingen als constante waarden kunnen gebruiken.
     public enum Unit {
-        GR("grams"),   // Afkorting voor gram
-        PCS("pieces"), // Afkorting voor stuks
-        SNF("pinches"), // Afkorting voor snufjes
-        KG("kilos"),   // Afkorting voor kilogrammen
-        TS("teaspoons"); // Afkorting voor theelepels
+        GR("gram"),   // Afkorting voor gram
+        PCS("stuks"), // Afkorting voor stuks
+        SNF("snufjes"), // Afkorting voor snufjes
+        KG("kilo"),   // Afkorting voor kilogrammen
+        TS("theelepels"); // Afkorting voor theelepels
 
 
         // Hier instantiëren we een stringobject (description) dat de volledige naam van de eenheid bevat.
@@ -70,4 +83,3 @@ public class Ingredient {
 }
 
 
-//        System.out.println("-   " + amount + " " + unit + " " + name + " " );

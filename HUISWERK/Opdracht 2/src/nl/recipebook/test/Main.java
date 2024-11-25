@@ -2,9 +2,12 @@ package nl.recipebook.test;
 
 public class Main {
     public static void main(String[] args) {
-        ApplePieRecipe recipe1 = new ApplePieRecipe();
+        ApplePieRecipe recipe = new ApplePieRecipe();
 
+        System.out.println("Ingrediënten:\n");
+        recipe.printIngredients();
 
-        System.out.println(recipe1);
+        System.out.println("\nStappen:\n");
+        recipe.printRecipe();
     }
 }
