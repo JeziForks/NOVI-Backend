@@ -31,7 +31,7 @@ public class ApplePieRecipe {
 
     }
 
-        //    Ik wilde een betere methode dan slechts alle ingrediënten 1 voor 1 printen, maar geen list gebruiken.
+    //    Ik wilde een betere methode dan slechts alle ingrediënten 1 voor 1 printen, maar geen list gebruiken.
     //    De reflectieklasse staat on toe om attributen van een klasse te lezen of te schrijven.
     //        Het bulletpoint symbool kunnen we toewijzen aan een variabele met het Unicode symbool hiervoor
 
