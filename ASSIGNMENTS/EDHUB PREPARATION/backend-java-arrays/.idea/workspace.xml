@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f411a7a-7e09-4184-9528-0a9939efb104" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend-java-car-class-main/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../HUISWERK/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../HUISWERK/Opdracht 1/Opdracht 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HUISWERK/Opdracht 1/Opdracht 1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../HUISWERK/Opdracht 1/backend-java-beslissingsstructuren-methodes-main/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../HUISWERK/Opdracht 2/src/nl/recipebook/test/ApplePieRecipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HUISWERK/Opdracht 2/src/nl/recipebook/test/ApplePieRecipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/In Class Practice/In Class Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/In Class Practice/Les 2/Les 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/In Class Practice/src/nl/novi/broker/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/In Class Practice/src/nl/novi/broker/House.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/In Class Practice/src/nl/novi/broker/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.idea/backend-java-variables.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/src/test/java/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/backend-java-variables/target/test-classes/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/out/production/In Class Practice/nl/novi/broker/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/out/production/In Class Practice/nl/novi/broker/House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practice/out/production/In Class Practice/nl/novi/broker/Main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="3f411a7a-7e09-4184-9528-0a9939efb104" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,10 +89,22 @@
       <updated>1732619613200</updated>
       <workItem from="1732619614272" duration="3390000" />
       <workItem from="1732623532322" duration="244000" />
+      <workItem from="1732624203497" duration="428000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
