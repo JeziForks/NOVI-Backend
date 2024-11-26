@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fc72a1c-7c8d-44c0-81bb-0affbc863fec" name="Changes" comment="Verkeerd eindeling rechtgezet en 1 bonusopdracht gemaakt">
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/In Class Practice/In Class Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/In Class Practice/src/nl/novi/broker/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/In Class Practice/src/nl/novi/broker/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/In Class Practice/src/nl/novi/broker/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.idea/backend-java-variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/backend-java-variables/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/out/production/In Class Practice/nl/novi/broker/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/out/production/In Class Practice/nl/novi/broker/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/out/production/In Class Practice/nl/novi/broker/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jezi89&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e18e917d-6c6c-4123-9b5d-deb3258f434f" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JeziForks/NOVI-Backend.git&quot;,
+    &quot;accountId&quot;: &quot;e18e917d-6c6c-4123-9b5d-deb3258f434f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Opdracht 1/src/ifelse.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oisLea4XRcYWSysFXlxYuN7bhf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifelse_Terminal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifelse_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Scratch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/J_vdz/OneDrive/CODING PROJECTS and WEBSITES/GITHUB JEZIFORKS/NOVI/NOVI-Backend/Practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/J_vdz/OneDrive/CODING PROJECTS and WEBSITES/GITHUB JEZIFORKS/NOVI/NOVI-Backend/HUISWERK/Opdracht 1/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\J_vdz\OneDrive\CODING PROJECTS and WEBSITES\GITHUB JEZIFORKS\NOVI\NOVI-Backend\HUISWERK\Opdracht 1\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fc72a1c-7c8d-44c0-81bb-0affbc863fec" name="Changes" comment="" />
+      <created>1731363675716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731363675716</updated>
+      <workItem from="1731363676735" duration="15000" />
+      <workItem from="1731363728987" duration="6371000" />
+      <workItem from="1731409971979" duration="1247000" />
+      <workItem from="1731419086363" duration="918000" />
+      <workItem from="1731421348233" duration="111000" />
+      <workItem from="1731953095031" duration="3839000" />
+      <workItem from="1731957190278" duration="1374000" />
+      <workItem from="1731964194428" duration="47000" />
+      <workItem from="1731964340763" duration="47000" />
+      <workItem from="1731964725563" duration="4000" />
+      <workItem from="1731964738625" duration="11030000" />
+      <workItem from="1732006410658" duration="1177000" />
+      <workItem from="1732007600018" duration="822000" />
+      <workItem from="1732011993106" duration="8214000" />
+      <workItem from="1732035646686" duration="2000" />
+      <workItem from="1732035662682" duration="15000" />
+    </task>
+    <task id="LOCAL-00001" summary="Verkeerd eindeling rechtgezet en 1 bonusopdracht gemaakt">
+      <option name="closed" value="true" />
+      <created>1731965438397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731965438397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Verkeerd eindeling rechtgezet en 1 bonusopdracht gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Verkeerd eindeling rechtgezet en 1 bonusopdracht gemaakt" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HUISWERK$Ifelse.ic" NAME="Ifelse Coverage Results" MODIFIED="1731955879095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>BONUS.*</FILTER>
+    </SUITE>
+  </component>
+</project>
